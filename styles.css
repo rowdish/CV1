@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  background-color: #CAF0F8;
+  background-image:url(file:///C:/Users/Sonia%20Sathish/OneDrive/Desktop/Web%20Development/structured%20site/images/mountain.png);
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-position: center;
+
+}
+
+.header {
+  margin: 0;
+}
+
+.section {
+  color: #495371;
+  font-family: cursive;
+  font-variant: small-caps;
+  margin-left: 55px;
+}
+
+h1 {
+  margin-top: 0;
+  text-align: center;
+  color: #FFE61B;
+  font-family: cursive;
+  font-variant: small-caps;
+}
+
+hr {
+  border-color: grey;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+
+a {
+  color: #03045E;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#2666CF;
+}
+
+p {
+  color: #789395;
+  font-family: cursive;
+  font-variant: small-caps;
+}
+
+em {
+  margin-left: 55px;
+}
+
+.about {
+  margin-left: 95px;
+}
+
+/*.mountain-img {
+  background-position: bottom;
+  display: block;
+  height: 500px;
+  margin-left: 680px;
+}
+*/
+.button {
+  font-size: 25px;
+  font-family: cursive;
+  border-radius: 50%;
+}
